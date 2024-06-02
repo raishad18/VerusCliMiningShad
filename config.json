@@ -1,22 +1,22 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "cloudiko",
+        	"url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+		"name": "cloudiko",
+        	"url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+		"name": "cloudiko",
+        	"url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RGCETwMjMD64TEVzQ5D9q3zqTCrCRRw6Uk.RedmiNoteShad",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
