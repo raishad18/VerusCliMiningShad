@@ -4,7 +4,6 @@
 		"name": "cloudiko",
         	"url": "stratum+tcp://eu.cloudiko.io:9999",
 		"timeout": 150
-		
 	}
 	],
 	"user": "RGCETwMjMD64TEVzQ5D9q3zqTCrCRRw6Uk.RedmiNoteShad",
